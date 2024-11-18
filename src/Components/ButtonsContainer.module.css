@@ -1,0 +1,19 @@
+
+.buttonsContainer{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.button{
+    width: 45px;
+    height: 45px;
+    margin: 3px;
+    background-color: rgb(235, 217, 217);
+
+}
+
+.button:hover {
+    background-color: #1141de;
+    cursor: pointer; 
+}
